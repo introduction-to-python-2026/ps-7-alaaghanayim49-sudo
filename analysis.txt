@@ -1,1 +1,11 @@
 
+In this analysis, I used the California Housing dataset from sklearn.
+
+I explored the relationship between the average number of rooms (AveRooms)
+and the median house value (MedHouseVal).
+
+The correlation scatter plot shows a positive relationship.
+As the average number of rooms increases, the median house value generally increases.
+
+However, the data points are spread out, which indicates that the correlation
+is not perfectly linear and that other factors may also affect house prices.
